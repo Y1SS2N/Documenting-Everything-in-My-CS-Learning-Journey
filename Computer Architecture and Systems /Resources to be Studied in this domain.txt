@@ -1,3 +1,5 @@
-- Computer Systems: a Programmer's Perspective
+- Computer Systems: a Programmer's Perspective (Knowledge in CH: 2,3,4,6 for a mental model of computing at the hardware level)
+
 - https://www.nand2tetris.org/course
 - https://www.coursera.org/learn/build-a-computer / https://www.coursera.org/learn/nand2tetris2
+The Elements Of Computing Systems: Building A Modern Computer From First Principles
