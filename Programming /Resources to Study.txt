@@ -1,1 +1,3 @@
-
+Books:
+- Structures and Interpretations of Computer Programs
+- Concepts of Programming Languages
