@@ -1,1 +1,4 @@
-
+- NeetCode
+- DSA Heads First
+- The Algorithm Design Manual
+- CLRS *(Refrence, Don't read cover-to-cover)*
