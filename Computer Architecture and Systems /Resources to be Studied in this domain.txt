@@ -1,1 +1,3 @@
-
+- Computer Systems: a programmers perspective
+- https://www.nand2tetris.org/course
+- https://www.coursera.org/learn/build-a-computer / https://www.coursera.org/learn/nand2tetris2
